@@ -23,7 +23,6 @@ environment:
 dependencies:
   convert: ^3.0.0
   http: ^0.13.3
-  sync_http: ^0.3.0
   flutter:
     sdk: flutter
 
