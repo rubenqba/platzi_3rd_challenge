@@ -50,14 +50,6 @@ flutter:
   # To add assets to your application, add an assets section, like this:
   assets:
     - assets/img/office.jpg
-    - assets/img/avatars/profile1.jpg
-    - assets/img/avatars/profile2.jpg
-    - assets/img/avatars/profile3.jpg
-    - assets/img/avatars/profile4.jpg
-    - assets/img/avatars/profile5.jpg
-    - assets/img/avatars/profile6.jpg
-    - assets/img/avatars/profile7.jpg
-    - assets/img/avatars/profile8.jpg
 
   # To add custom fonts to your application, add a fonts section here,
   # in this "flutter" section. Each entry in this list should have a
